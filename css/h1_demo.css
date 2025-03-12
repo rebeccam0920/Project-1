@@ -1,5 +1,6 @@
 /*	This simple declaration exists only to show you
 		that you can style any element however you want
+		without chaning the HTML tag structure. */
 		
 div#h1_demo > h1 {
 	display: block;
